@@ -1,3 +1,4 @@
+/* eslint-disable camelcase */
 class Transaction {
   id: string;
 
